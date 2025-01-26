@@ -1,28 +1,334 @@
-## pocsuite3 (共594个) 最近一次检查时间 2025-01-25 03:14:19
+## pocsuite3 (共887个) 最近一次检查时间 2025-01-26 03:16:16
 ### 收集记录
 | 文件名称 | 收录时间 |
 | :----| :---- |
-| [__init__.py](https://github.com/20142995/pocsuite3) | 2025-01-25 03:14:03 |
-| [广联达Linkworks_msgbroadcastuploadfile.aspx后台文<br>件上传漏洞.py](https://github.com/luck-ying/Library-POC) | 2025-01-25 03:14:02 |
-| [thinkphp_rce2.py](https://github.com/WZY3641572/pocsuite3) | 2025-01-25 03:13:57 |
-| [CVE-2021-46422.py](https://github.com/WZY3641572/pocsuite3) | 2025-01-25 03:13:57 |
-| [CVE-2022-26134.py](https://github.com/WZY3641572/pocsuite3) | 2025-01-25 03:13:57 |
-| [20190404_WEB_Confluence_path_traversal.py](https://github.com/knownsec/pocsuite3) | 2025-01-25 03:13:56 |
-| [ftp_burst.py](https://github.com/begaad/pocsuite3-pocs) | 2025-01-25 03:13:55 |
-| [telnet_burst.py](https://github.com/begaad/pocsuite3-pocs) | 2025-01-25 03:13:55 |
-| [demo_poc.py](https://github.com/begaad/pocsuite3-pocs) | 2025-01-25 03:13:55 |
-| [solr_all_readfile.py](https://github.com/Pontusec/pocsuite3) | 2025-01-25 03:13:52 |
-| [login_demo.py](https://github.com/xx-zhang/pocsuite3-pocs) | 2025-01-25 03:13:51 |
-| [tomcat-ajp-ghostcat_all_lfi.py](https://github.com/xx-zhang/pocsuite3-pocs) | 2025-01-25 03:13:51 |
-| [redis_unauthorized_access.py](https://github.com/xx-zhang/pocsuite3-pocs) | 2025-01-25 03:13:51 |
-| [thinkphp_rce.py](https://github.com/1derian/pocsuite3_POC) | 2025-01-25 03:13:50 |
-| [node_red_unauthorized_rce.py](https://github.com/1derian/pocsuite3_POC) | 2025-01-25 03:13:50 |
-| [drupalgeddon2.py](https://github.com/1derian/pocsuite3_POC) | 2025-01-25 03:13:50 |
-| [libssh_auth_bypass.py](https://github.com/1derian/pocsuite3_POC) | 2025-01-25 03:13:50 |
-| [ecshop_rce.py](https://github.com/1derian/pocsuite3_POC) | 2025-01-25 03:13:50 |
-| [apollo_weak_passwd.py](https://github.com/1derian/pocsuite3_POC) | 2025-01-25 03:13:50 |
-| [ssh_burst.py](https://github.com/1derian/pocsuite3_POC) | 2025-01-25 03:13:50 |
-| [wd_nas_login_bypass_rce.py](https://github.com/1derian/pocsuite3_POC) | 2025-01-25 03:13:50 |
+| [CVE-2021-46422.py](https://github.com/Pontusec/pocsuite3) | 2025-01-26 03:16:10 |
+| [CVE-2022-26134.py](https://github.com/Pontusec/pocsuite3) | 2025-01-26 03:16:10 |
+| [tomcat-ajp-ghostcat_all_lfi.py](https://github.com/Pontusec/pocsuite3) | 2025-01-26 03:16:10 |
+| [__init__.py](https://github.com/ox01024/PocHub) | 2025-01-26 03:16:04 |
+| [3Ajax.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [tongda_down_infoleek.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa通达OAquery.php存在SQL注入漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友 GRP-u8sql2.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [trx-topsec-static_convert-rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [F5-BIGIPiControlREST绕过授权访问漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微E-officeflow_typeflow_xml.php存在SQL注入漏<br>洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [feiqi-parsetree-sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [致远OA_webmail.do_任意文件下载.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [kerong-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Apache Druid LoadData 任意文件读取漏洞 CVE-2021-3<br>6749.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [jeews_showordownbyurl_do_file_read.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [dongsheng-getdatalist-sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [hongjing_app_check_in-get_org_tree-sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [ftp_burst.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [vpnqianxin任意密码重置.py.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微OA-V8-LoginSSO注入.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [3.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [4Atlassian.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [enjoyIT_CWSFinanceCommon_SQL.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2021-35464.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微OA E-mobile v5.0 ognl注入命令执行.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [金山防毒墙任意文件读取.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [yongyou_u8crm_readfile.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [亿邮电子邮件系统命令执行.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [yongyouu8-cloud-upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [yongyou-nc-cloud-soapformat-xxe.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [thinkphp_rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [yisaitong-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa通达OA 任意用户登录.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [kkFileView getCorsFile 任意文件读取漏洞 CVE-2021-<br>43734.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [imo 云办公室 Imo_DownLoadUI.php 任意文件下载漏洞.<br>py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [elasticsearch_unauthorized_access.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微E-officeFlowCommon.class.php存在文件上传漏<br>洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2021-43287.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微OA-getSqlData注入.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [9.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [11.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa致远_weakpassword.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [thinkphp_rce2.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [redis_unauthorized_access.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友文件上传accept.jsp.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [MessageSolution邮件归档系统EEA信息泄露漏洞CNVD-20<br>21-10543.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [DedeCMScommon.func.php远程命令执行漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Confluence未授权RCE.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [fanwei-yunqiaoe-bridge-sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Education_cloud_platform_upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [node_red_unauthorized_rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [12.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [2.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [海康威视摄像头管理后台未授权访问.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [yunbaoan-fashjson.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微OA-getdata注入.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [bangguanjiaCRM-ajax-upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [金蝶OA-EAS目录遍历.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [0005_Mssql_Dionaea.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [BlueCMS_1_6_xss.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微E-officeE-mobileAppinit.php存在文件上传漏洞<br>.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微0day任意文件读取.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2022-26532.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [dahua-DSS-struts2-045.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [feiyuxing-ruokl.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [landray_oa_sysuicomponent_file_upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [sudaruanjian_upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [汉王人脸考勤管理系统 Check SQL注入漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2021-32305.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [zzcms_8_3_sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [蓝凌OAtreexml.tmpl存在远程命令执行漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [bangguanjiaCRM-ajax-upload-chat.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友nc反序列化ServiceDispatcherServlet.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [huawei-Auth-Http-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [drupalgeddon2.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [dongsheng-saveuser-sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [金山 V8 终端安全系统 pdf_maker.php 命令执行漏洞.p<br>y](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [jetty_6_x_xss.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [telnet_burst.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [泛微OA_E-Cology_browser.jsp_SQL注入.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [蓝海卓越 计费管理系统 debug.php 远程命令执行漏洞.<br>py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Fhem FileLog_logWrapper 任意文件读取漏洞 CVE-2020<br>-19360.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微e-cologyweaver.docs.docs.ShowDocsImageServl<br>et存在SQL注入漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [ZX_sqlPOC.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微E-officev10leave_record.php存在SQL注入漏洞.<br>py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [array_vpn_fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [libssh_auth_bypass.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [nc-actionhandlerservlet-unserialization.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [IP-GuardRCE.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友 GRP-U8 U8AppProxy 任意文件上传漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [hongfanOA-iorepsavexml-upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [datang-dianxinAC-information-leakage.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [likeshop-upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [secworld_info_leek.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [edusoho-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [致远OA_getSessionList.jsp_Session泄漏.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2021-27748.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微数据库账号密码泄露.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微云桥e-BridgeaddTaste存在SQL注入漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [联软 UniSDP软件定义边界系统 commondRetStr 存在命<br>令执行漏洞DSO-06793.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [紫光档案管理系统 editPass.html SQL注入漏洞 CNVD-2<br>021-41638.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [金山 终端安全系统 interpdf_maker.php 存在命令执行<br>漏洞DSO-07033.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [10.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [atlassian-confluence-rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [jinhe-jc6-upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [springboot-apiblade-user-sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [ecshop_rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [yisaitong-policyajax-sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [shikongzhiyou_formservice_uploadfile.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [1Business.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [jinhe-getattout-sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [wangshen-SecGate3600-information-leakage.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2021-21402.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa红帆 ioffice 医院版 sql注入.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa通达OAget_datas.php前台注入.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2020-14882.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [0008_Netbios_Nepenthes.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [enjoyIT_cwsoa_SQL.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [大华-任意文件读取.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [泛微OA_E-Office_mobile_upload_save_任意文件上传.p<br>y](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [0013_Ssh_sshesame.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2022-21371.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa万户OA-任意文件读取.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2022-23944.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [绿盟BAS日志数据安全性分析系统存在未授权访问漏洞.p<br>y](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2022-21661.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [JieLink_zhineng_sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa致远OA A8默认弱口令.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [锐捷_EG易网关_上网行为管理系统_信息泄露.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2020-14883.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa瑞友天翼应用虚拟化系统 GetBSAppUrl SQL 注入漏洞<br>.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [网神防火墙任意文件上传.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa通达OA 2013 2015 任意⽂件上传漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Atlassian Jira cfx 任意文件读取漏洞 CVE-2021-2608<br>6.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微e-cology8mobilemodeAction.jsp存在SQL注入漏<br>洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微云桥 E-Bridge 2018 2019 任意文件读取.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微e-cology存在任意用户登录漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [jinhe-rssmodules-sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [7.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [XYHCMS_3_5_download.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa致远OAdatasourceCtp.properties配置文件下载.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [0001_Tcp_whoisscanme.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Citrix XenMobile 任意文件读取 CVE-2020-8209.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2021-40822.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [TerraMasterTOSexportUser.php远程命令执行.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [zantaopms_CNVD_C_2020_121325_upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Flink_201111_Unauth_RCE.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [绿盟 VMWAF REST API sysmgtpasswd 存在密码重置漏洞<br>DSO-07088.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa致远wpsAssistServlet任意文件上传.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [ifair-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [jiecheng-CWSFinanceCommon-sqli.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [RG-UAC-RCE.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [zhedaenkeMailActionUpload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [魅课 OM视频会议系统 proxy.php 文件包含漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [20190404_WEB_Confluence_path_traversal.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [yunshikongERP_upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [I-DocView-readfile.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [蓝凌OAsysuiextendvarkindcustom.jsp存在SSRF漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [gitlab未授权RCE.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微OAE-Office-mysql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [vpn奇安信网康下一代防火墙RCE.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa通达OA sql注入漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [宏景人力_servlet-codesettree_sql注入.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [trx-topsec-cookie-rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Metabase geojson 任意文件读取漏洞 CVE-2021-41277.<br>py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微e-cologySptmForPortalThumbnail.jsp存在任意<br>文件下载漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微OA E-office未授权访问漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [superdata-upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [newcapec-CampusMobileServiceManagementPlatform-RC<br>E.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [wanhu-text-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2022-23134.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [TurboMail-view-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [yearning-front-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [yongyouNC-upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa红帆文件上传iorepsavexml.aspx.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [fanweiOA-xml-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [vpn360任意密码重置.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微E-officegetFolderZtreeNodes.php存在SQL注入<br>漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [vpn深信服 行为感知系统 c.php 远程命令执行漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [en_sunflower_RCE_EXP.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [nginxwebui-runcmd-rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [idocview-doc-upload-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2021-22986.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微e-cologyuploaderOperate.jsp存在文件上传漏洞<br>.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友nc 多个反序列化.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [_1_dahua_info_disclosure.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [浪擎科技 DAYS容灾软件存在任意文件读取漏洞DSO-0670<br>6.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [tongdaOA-Authenticatio-bypass.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [锐捷_EG易网关_WEB管理系统_前台RCE.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [H3C CAS 存在默认账号密码漏洞DSO-07112.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [联软UniNAC网络准入控制系统 任意文件上传漏洞DSO-02<br>484.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa万户ezOFFICEOfficeServer.jsp存在SQL注入漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [entsoft_fileupload_jsp_file_upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [银澎云计算 好视通视频会议系统 任意文件下载 CNVD-2<br>020-62437.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友_setextno_Inject.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友畅捷通T+DownloadProxy.aspx任意文件读取漏洞.<br>py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [0011_Memcached_Dionaea.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [泛微OA_E-mobile_lang2sql_接口任意文件上传.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [beijin-ucenter-rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [蓝凌OAdatasys-commondatajson.js存在反序列化漏洞.p<br>y](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Multiple-vendors-RCE.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [wanhu_OA_any_upload_file.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [2Casdoor.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [hikvision-files-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [拓尔思 媒资管理系统存在信息泄露漏洞DSO-06198.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [_0_wxwork_info_disclosure.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [shikong_Login_Any_file_read.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [ezoffice_wpsservlet_upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [锐捷Smartweb密码信息泄露漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [transense_ajax_sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2021-26294.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2021-36749.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [浪潮sysShell任意命令执行漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [yongyouu8-CRM-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2021-3223.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa致远OA A6 - v5 任意文件下载漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [yongyouU8-doupload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [zdek-followaction-sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa致远OA A8 系统远程命令执行漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [wangkangrce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [BIG-IP F5 CVE-2020-5902.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友_BshServlet.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [haoshitong-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [hikvision_gateway_fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [TRS MAS testCommandExecutor.jsp 存在远程命令执行<br>漏洞DSO-06017.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Atlassian Jira ViewUserHover.jspa 用户信息泄露漏<br>洞 CVE-2020-14181.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa万户ezOFFICEDownloadServlet存在任意文件下载漏洞<br>.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [禅道16.5等最新版本存在前台SQL注入漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2020-13937.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [apache_flink_cve_2020_17519_download.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友OACheckLogin存在SQL注入漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [drupal_CVE-2014-3704.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa红帆OA 任意用户登录漏洞1.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [ssh_burst.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa通达OAv2017video_file.php任意文件下载漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa万户oa前台任意文件上传2.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [huawei-auth-http-readfile.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [4.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [vpnArray Networks SSL VPN 存在默认账号密码漏洞DSO<br>-07122.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Ofcms_1_1_2_sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [ClickHouseAPI数据库接口未授权访问漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa万户oa 前台任意文件上传漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [zhedaenkeeditAction_SQL.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CNVD-2021-10543.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微OA-E-Office文件上传.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa通达OA 2017 任意文件上传漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [H3C_ Network_Management_System_ Any_file_read.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [yongyou-ufida-nc-unauthorized.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [milesight-vpn-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [OfficeWeb365_Pic_Indexs_fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [GoCD plugin 任意文件读取漏洞 CVE-2021-43287.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [_99720_ecology_xml_inj.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [office-web-365-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [dahua-zhyq-deleteftp-rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [0002_Telnet_Cowrie.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa致远OA-DownExcelBeanServlet信息泄露.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [enjoyIT_CWSHr_SQL.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Apache_Kylin_CVE_2020_13925_rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微e-cologydatas存在敏感信息泄漏漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa致远报表密码泄露.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [dongsheng-Tcodevoyno-sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [0006_Ssh_kojoney.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [aoweiya-VideoCover-upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Grafana plugins 任意文件读取漏洞 CVE-2021-43798.p<br>y](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [solr_all_readfile.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [yongyouU8-old.jsp-sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友 GRP-u8 任意文件上传漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友 GRP-u8 sql注入3.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2022-24124.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [yushi-isc-logreport-rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友反序列化DeleteServlet.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2021-32820.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友_U8_getSessionList.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友ERP-NC目录遍历漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [NC_Cloud_word_fileRead.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [AlibabaCanalconfig云密钥信息泄露漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [hongfanOA_iorepsavexml_upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Citrix-LFI-CVE-2020-8196.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [iDocview-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa致远OA帆软组件ReportServer目录遍历漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [e-bridge-SQL.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [5gui.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [海康威视综合安防管理平台env信息泄露.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [畅捷通sql注入文件上传组合拳.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [livebos-crm-scriptvariable-rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2021-41192.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [向日葵check远程命令执行漏洞CNVD-2022-10270.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [jindieyun_ScpSupRegHandler_uploadfile.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [广联达Linkworks_msgbroadcastuploadfile.aspx后台文<br>件上传漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa万户命令执行.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [kerongAIO-utilservlet-rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Nexus_CVE_2019_7238.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [topsec-maincgi-cookie-rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2021-32819.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [rwx-CRM-smsdatalist-sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [蓝海卓越 计费管理系统 download.php 任意文件读取漏<br>洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [H3C-任意文件读取.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [Crawlab file 任意文件读取漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [锐捷_EG易网关_上网行为管理系统_前台RCE.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [wd_nas_login_bypass_rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [zhedaente-upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [泛微OA_E-Office_uploadify.php_任意文件上传.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa致远报表文件读取.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa用友GRP-U8sql注入.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [dahua_zhyq_attachment_fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [security_products_rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [javamelody_xxe_CVE_2018_15531.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [致远OA_帆软组件_ReportServer_目录遍历.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [seacms_6_45_rce.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [haikang-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [oa泛微OA-前台RCE.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [mingfei-list-sql.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2020-17519.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [phpshe_1_7_xxe.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [zdek-crmbasicaction-upload.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [dahua-dss-itcBulletin-sqli.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [MKdocs 任意文件读取漏洞 CVE-2021-40978.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [SonarQube search_projects 项目信息泄露漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:02 |
+| [CVE-2022-22954.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:01 |
+| [CVE-2020-24391.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:01 |
+| [e-cology-xmlrpcservlet-fileread.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:01 |
+| [oa用友nc控制台绕过漏洞.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:01 |
+| [致远OA_A6_config.jsp_敏感信息泄漏.py](https://github.com/20142995/pocsuite3) | 2025-01-26 03:16:01 |
+| [demo_poc.py](https://github.com/The-Cracker-Technology/pocsuite3) | 2025-01-26 03:16:00 |
+| [apollo_weak_passwd.py](https://github.com/WZY3641572/pocsuite3) | 2025-01-26 03:16:00 |
+| [login_demo.py](https://github.com/knownsec/pocsuite3) | 2025-01-26 03:15:59 |
 | [run.py](https://github.com/20142995/pocsuite3) | 2024-11-21 03:25:41 |
 | [CVE-2020-8515.py](https://github.com/20142995/pocsuite3) | 2024-10-09 03:19:48 |
 | [20090323_WEB_Apache_Struts2_003_RCE_CVE-2008-6504<br>.py](https://github.com/knownsec/pocsuite3) | 2024-04-29 03:08:29 |
@@ -170,9 +476,7 @@
 | [REALOR_ConsoleExternalUploadApi.XGI_key_sql.py](https://github.com/luck-ying/Library-POC) | 2023-05-25 03:07:38 |
 | [REALOR_ConsoleExternalUploadApi.XGI_key_sql_getsh<br>ell.py](https://github.com/luck-ying/Library-POC) | 2023-05-25 03:07:38 |
 | [REALOR_ConsoleExternalApi.XGI_account_sql_getshel<br>l.py](https://github.com/luck-ying/Library-POC) | 2023-05-25 03:07:38 |
-| [elasticsearch_unauthorized_access.py](https://github.com/whoadmin/pocs) | 2023-04-19 03:08:22 |
 | [Jenkins_poc.py](https://github.com/shadowsock5/Poc) | 2023-04-19 03:08:16 |
-| [Nexus_CVE_2019_7238.py](https://github.com/shadowsock5/Poc) | 2023-04-19 03:08:16 |
 | [Nexus_CVE_2020_10204.py](https://github.com/shadowsock5/Poc) | 2023-04-19 03:08:16 |
 | [Nexus_CVE_2020_10199.py](https://github.com/shadowsock5/Poc) | 2023-04-19 03:08:16 |
 | [Nexus_CVE_2018_16621.py](https://github.com/shadowsock5/Poc) | 2023-04-19 03:08:16 |
@@ -310,9 +614,7 @@
 | [CVE-2022-30525.py](https://github.com/begaad/pocsuite3-pocs) | 2023-03-02 03:17:34 |
 | [Apache Flink 目录遍历漏洞 CVE-2020-17519.py](https://github.com/Micr067/PeiQi-PocSuite3) | 2023-03-02 03:17:21 |
 | [Apache Druid sampler 远程代码执行漏洞 CVE-2021-25<br>646.py](https://github.com/Micr067/PeiQi-PocSuite3) | 2023-03-02 03:17:21 |
-| [Apache Druid LoadData 任意文件读取漏洞 CVE-2021-3<br>6749.py](https://github.com/Micr067/PeiQi-PocSuite3) | 2023-03-02 03:17:21 |
 | [Apache ShenYu dashboardUser 账号密码泄漏漏洞 CVE-<br>2021-37580.py](https://github.com/Micr067/PeiQi-PocSuite3) | 2023-03-02 03:17:21 |
-| [Grafana plugins 任意文件读取漏洞 CVE-2021-43798.p<br>y](https://github.com/Micr067/PeiQi-PocSuite3) | 2023-03-02 03:17:21 |
 | [joomla_info.py](https://github.com/1derian/pocsuite3_POC) | 2023-02-26 03:19:38 |
 | [s2_062_rce.py](https://github.com/1derian/pocsuite3_POC) | 2023-02-26 03:19:38 |
 | [ATLASSIAN_Confluence_CODE_EXECUTION.py](https://github.com/1derian/pocsuite3_POC) | 2023-02-26 03:19:38 |
@@ -329,7 +631,6 @@
 | [expclient.py](https://github.com/Tender-wu/python-) | 2023-02-17 03:14:45 |
 | [Apache-Minio-weak.py](https://github.com/charis3306/expStorm) | 2023-02-15 03:13:55 |
 | [weaverOA_sql_RCE.py](https://github.com/mlxwlX/PocWrite_pocsuite3) | 2023-02-03 03:12:04 |
-| [CVE-2020-13937.py](https://github.com/mlxwlX/PocWrite_pocsuite3) | 2023-01-26 03:08:10 |
 | [RabbitMQ-unauth-access.py](https://github.com/charis3306/expStorm) | 2023-01-20 03:10:46 |
 | [Spring-boot-admin-unauth-access.py](https://github.com/charis3306/expStorm) | 2023-01-20 03:10:46 |
 | [xxl-job-weak.py](https://github.com/charis3306/expStorm) | 2023-01-18 03:09:20 |
@@ -399,7 +700,6 @@
 | [Leadsec ACM SQL注入.py](https://github.com/20142995/pocsuite3) | 2022-12-16 03:07:41 |
 | [泛微OA E-Office mysql_config.ini 数据库信息.py](https://github.com/20142995/pocsuite3) | 2022-12-16 03:07:41 |
 | [蓝海卓越计费管理系统远程命令执行漏洞.py](https://github.com/20142995/pocsuite3) | 2022-12-16 03:07:41 |
-| [Metabase geojson 任意文件读取漏洞 CVE-2021-41277.<br>py](https://github.com/20142995/pocsuite3) | 2022-12-16 03:07:41 |
 | [springcloud_cve_2022_22947_spelrce.py](https://github.com/20142995/pocsuite3) | 2022-12-16 03:07:41 |
 | [CNVD-2021-26422.py](https://github.com/20142995/pocsuite3) | 2022-12-16 03:07:41 |
 | [泛微eoffice10前台任意文件上传.py](https://github.com/20142995/pocsuite3) | 2022-12-16 03:07:41 |
@@ -464,14 +764,8 @@
 | [Crestron aj.html 账号密码泄漏漏洞 CVE-2022-23178.<br>py](https://github.com/Micr067/PeiQi-PocSuite3) | 2022-12-16 03:07:38 |
 | [Tenda W15E企业级路由器 RouterCfm.cfg 配置文件泄漏<br>漏洞.py](https://github.com/Micr067/PeiQi-PocSuite3) | 2022-12-16 03:07:38 |
 | [向日葵 check 远程命令执行漏洞 CNVD-2022-10270.py](https://github.com/Micr067/PeiQi-PocSuite3) | 2022-12-16 03:07:38 |
-| [蓝海卓越 计费管理系统 debug.php 远程命令执行漏洞.<br>py](https://github.com/Micr067/PeiQi-PocSuite3) | 2022-12-16 03:07:38 |
-| [蓝海卓越 计费管理系统 download.php 任意文件读取漏<br>洞.py](https://github.com/Micr067/PeiQi-PocSuite3) | 2022-12-16 03:07:38 |
 | [时代光华 e-Learning downloadFile.jsp 任意文件下载<br>漏洞.py](https://github.com/Micr067/PeiQi-PocSuite3) | 2022-12-16 03:07:38 |
-| [Fhem FileLog_logWrapper 任意文件读取漏洞 CVE-2020<br>-19360.py](https://github.com/Micr067/PeiQi-PocSuite3) | 2022-12-16 03:07:38 |
-| [GoCD plugin 任意文件读取漏洞 CVE-2021-43287.py](https://github.com/Micr067/PeiQi-PocSuite3) | 2022-12-16 03:07:38 |
 | [SpiderFlow save 远程命令执行漏洞.py](https://github.com/Micr067/PeiQi-PocSuite3) | 2022-12-16 03:07:38 |
-| [紫光档案管理系统 editPass.html SQL注入漏洞 CNVD-2<br>021-41638.py](https://github.com/Micr067/PeiQi-PocSuite3) | 2022-12-16 03:07:38 |
-| [Crawlab file 任意文件读取漏洞.py](https://github.com/Micr067/PeiQi-PocSuite3) | 2022-12-16 03:07:38 |
 | [cve 2019-0708.py](https://github.com/dorkerdevil/Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-) | 2022-12-16 03:07:38 |
 | [Struts2_S2-061_rce_Poc.py](https://github.com/ox01024/PocHub) | 2022-12-16 03:07:37 |
 | [admin_login_Bypass.py](https://github.com/ox01024/PocHub) | 2022-12-16 03:07:37 |
@@ -592,7 +886,6 @@
 | [OMEETING-OM视频会议.py](https://github.com/mlxwlX/PocWrite_pocsuite3) | 2022-12-16 03:07:32 |
 | [FLIR-AX8后台命令执行.py](https://github.com/mlxwlX/PocWrite_pocsuite3) | 2022-12-16 03:07:32 |
 | [吉拉科技-目录遍历.py](https://github.com/mlxwlX/PocWrite_pocsuite3) | 2022-12-16 03:07:32 |
-| [CVE-2021-43287.py](https://github.com/mlxwlX/PocWrite_pocsuite3) | 2022-12-16 03:07:32 |
 | [imo云办公室rce.py](https://github.com/mlxwlX/PocWrite_pocsuite3) | 2022-12-16 03:07:32 |
 | [蓝海卓越计费管理系统任意文件读取.py](https://github.com/mlxwlX/PocWrite_pocsuite3) | 2022-12-16 03:07:32 |
 | [Canl_Admin.py](https://github.com/mlxwlX/PocWrite_pocsuite3) | 2022-12-16 03:07:32 |

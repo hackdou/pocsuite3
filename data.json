@@ -59,11 +59,6 @@
         "from": "https://github.com/mlxwlX/PocWrite_pocsuite3",
         "up_time": "2022-12-16 03:07:32"
     },
-    "436e4ebebad0367f8e297ff230d10f98": {
-        "name": "CVE-2021-43287.py",
-        "from": "https://github.com/mlxwlX/PocWrite_pocsuite3",
-        "up_time": "2022-12-16 03:07:32"
-    },
     "23a93e7428cbddb9940f611638c8bb83": {
         "name": "imo云办公室rce.py",
         "from": "https://github.com/mlxwlX/PocWrite_pocsuite3",
@@ -664,43 +659,13 @@
         "from": "https://github.com/Micr067/PeiQi-PocSuite3",
         "up_time": "2022-12-16 03:07:38"
     },
-    "7c3b3591508d04535cc169505de8ffa5": {
-        "name": "蓝海卓越 计费管理系统 debug.php 远程命令执行漏洞.py",
-        "from": "https://github.com/Micr067/PeiQi-PocSuite3",
-        "up_time": "2022-12-16 03:07:38"
-    },
-    "e86718d22e5f9c79f206592f5c428d9c": {
-        "name": "蓝海卓越 计费管理系统 download.php 任意文件读取漏洞.py",
-        "from": "https://github.com/Micr067/PeiQi-PocSuite3",
-        "up_time": "2022-12-16 03:07:38"
-    },
     "6694f400f5ebfc22d235cc2aca822d94": {
         "name": "时代光华 e-Learning downloadFile.jsp 任意文件下载漏洞.py",
         "from": "https://github.com/Micr067/PeiQi-PocSuite3",
         "up_time": "2022-12-16 03:07:38"
     },
-    "d55fcd166e7593e08ddb40719580c8ae": {
-        "name": "Fhem FileLog_logWrapper 任意文件读取漏洞 CVE-2020-19360.py",
-        "from": "https://github.com/Micr067/PeiQi-PocSuite3",
-        "up_time": "2022-12-16 03:07:38"
-    },
-    "2cab0938fa0952c4af9ba729f6503c32": {
-        "name": "GoCD plugin 任意文件读取漏洞 CVE-2021-43287.py",
-        "from": "https://github.com/Micr067/PeiQi-PocSuite3",
-        "up_time": "2022-12-16 03:07:38"
-    },
     "4cb5429f3a5623d8de8c0a534dd33841": {
         "name": "SpiderFlow save 远程命令执行漏洞.py",
-        "from": "https://github.com/Micr067/PeiQi-PocSuite3",
-        "up_time": "2022-12-16 03:07:38"
-    },
-    "77f4be5b903fccdacf988ca8b060a74b": {
-        "name": "紫光档案管理系统 editPass.html SQL注入漏洞 CNVD-2021-41638.py",
-        "from": "https://github.com/Micr067/PeiQi-PocSuite3",
-        "up_time": "2022-12-16 03:07:38"
-    },
-    "3b6a4b1b1916e8eee32146af170fd988": {
-        "name": "Crawlab file 任意文件读取漏洞.py",
         "from": "https://github.com/Micr067/PeiQi-PocSuite3",
         "up_time": "2022-12-16 03:07:38"
     },
@@ -896,11 +861,6 @@
     },
     "222b8e19e52242f1e30a6573a75e286d": {
         "name": "蓝海卓越计费管理系统远程命令执行漏洞.py",
-        "from": "https://github.com/20142995/pocsuite3",
-        "up_time": "2022-12-16 03:07:41"
-    },
-    "2cf016f0342ab925273d663fbcd256ca": {
-        "name": "Metabase geojson 任意文件读取漏洞 CVE-2021-41277.py",
         "from": "https://github.com/20142995/pocsuite3",
         "up_time": "2022-12-16 03:07:41"
     },
@@ -1329,11 +1289,6 @@
         "from": "https://github.com/charis3306/expStorm",
         "up_time": "2023-01-20 03:10:46"
     },
-    "1570b49ab66560168e83e02d8bff7426": {
-        "name": "CVE-2020-13937.py",
-        "from": "https://github.com/mlxwlX/PocWrite_pocsuite3",
-        "up_time": "2023-01-26 03:08:10"
-    },
     "a86d6c591d88ce28bb1fbd848ded55f4": {
         "name": "weaverOA_sql_RCE.py",
         "from": "https://github.com/mlxwlX/PocWrite_pocsuite3",
@@ -1424,18 +1379,8 @@
         "from": "https://github.com/Micr067/PeiQi-PocSuite3",
         "up_time": "2023-03-02 03:17:21"
     },
-    "b5ae116f018c96c2417799a2d6e858c5": {
-        "name": "Apache Druid LoadData 任意文件读取漏洞 CVE-2021-36749.py",
-        "from": "https://github.com/Micr067/PeiQi-PocSuite3",
-        "up_time": "2023-03-02 03:17:21"
-    },
     "90e50f00bbe884e1ab0c525a1023d5d7": {
         "name": "Apache ShenYu dashboardUser 账号密码泄漏漏洞 CVE-2021-37580.py",
-        "from": "https://github.com/Micr067/PeiQi-PocSuite3",
-        "up_time": "2023-03-02 03:17:21"
-    },
-    "7bef0190a9fe33fc0f15b106f95788bf": {
-        "name": "Grafana plugins 任意文件读取漏洞 CVE-2021-43798.py",
         "from": "https://github.com/Micr067/PeiQi-PocSuite3",
         "up_time": "2023-03-02 03:17:21"
     },
@@ -2104,11 +2049,6 @@
         "from": "https://github.com/shadowsock5/Poc",
         "up_time": "2023-04-19 03:08:16"
     },
-    "c3b35c6ab13984d667b3219cfafe51a7": {
-        "name": "Nexus_CVE_2019_7238.py",
-        "from": "https://github.com/shadowsock5/Poc",
-        "up_time": "2023-04-19 03:08:16"
-    },
     "2de4446d4727682a55561de0ca1c9fb2": {
         "name": "Nexus_CVE_2020_10204.py",
         "from": "https://github.com/shadowsock5/Poc",
@@ -2123,11 +2063,6 @@
         "name": "Nexus_CVE_2018_16621.py",
         "from": "https://github.com/shadowsock5/Poc",
         "up_time": "2023-04-19 03:08:16"
-    },
-    "158770cfbe4d61d1726e25e48406458c": {
-        "name": "elasticsearch_unauthorized_access.py",
-        "from": "https://github.com/whoadmin/pocs",
-        "up_time": "2023-04-19 03:08:22"
     },
     "aa60ce4235a11d21da8c458d75b06e9c": {
         "name": "REALOR_弱口令.py",
@@ -2864,109 +2799,1639 @@
         "from": "https://github.com/20142995/pocsuite3",
         "up_time": "2024-11-21 03:25:41"
     },
-    "d717e2a208fd1e044531282801d7efee": {
-        "name": "thinkphp_rce.py",
-        "from": "https://github.com/1derian/pocsuite3_POC",
-        "up_time": "2025-01-25 03:13:50"
-    },
-    "3dca0aa4917c581e379ecb49edf9a182": {
-        "name": "node_red_unauthorized_rce.py",
-        "from": "https://github.com/1derian/pocsuite3_POC",
-        "up_time": "2025-01-25 03:13:50"
-    },
-    "9c08b244c36b52a26d0a62201b8ae3f8": {
-        "name": "drupalgeddon2.py",
-        "from": "https://github.com/1derian/pocsuite3_POC",
-        "up_time": "2025-01-25 03:13:50"
-    },
-    "1bb1263a3c82b80b543ac4140632fa60": {
-        "name": "libssh_auth_bypass.py",
-        "from": "https://github.com/1derian/pocsuite3_POC",
-        "up_time": "2025-01-25 03:13:50"
-    },
-    "c73310001ed86167a8d2b8147486a46e": {
-        "name": "ecshop_rce.py",
-        "from": "https://github.com/1derian/pocsuite3_POC",
-        "up_time": "2025-01-25 03:13:50"
-    },
-    "8daea39e3e6fc74c866dbc71fc513933": {
-        "name": "apollo_weak_passwd.py",
-        "from": "https://github.com/1derian/pocsuite3_POC",
-        "up_time": "2025-01-25 03:13:50"
-    },
-    "a4a2a6176796ed3cd293ed648d6a7c21": {
-        "name": "ssh_burst.py",
-        "from": "https://github.com/1derian/pocsuite3_POC",
-        "up_time": "2025-01-25 03:13:50"
-    },
-    "ae3a674f0527282dd2bff0c0e85b8872": {
-        "name": "wd_nas_login_bypass_rce.py",
-        "from": "https://github.com/1derian/pocsuite3_POC",
-        "up_time": "2025-01-25 03:13:50"
-    },
-    "e133bd44e5893c2e539657adb742a020": {
+    "0a6f01e1d5c9d2e92040cd051241b493": {
         "name": "login_demo.py",
-        "from": "https://github.com/xx-zhang/pocsuite3-pocs",
-        "up_time": "2025-01-25 03:13:51"
-    },
-    "d84e421f1cd12406aeb33306705a015e": {
-        "name": "tomcat-ajp-ghostcat_all_lfi.py",
-        "from": "https://github.com/xx-zhang/pocsuite3-pocs",
-        "up_time": "2025-01-25 03:13:51"
-    },
-    "257d06e7f084c6fa0aa46980b0cdbbdc": {
-        "name": "redis_unauthorized_access.py",
-        "from": "https://github.com/xx-zhang/pocsuite3-pocs",
-        "up_time": "2025-01-25 03:13:51"
-    },
-    "43d43f2aaf738aee14a2aba182639e59": {
-        "name": "solr_all_readfile.py",
-        "from": "https://github.com/Pontusec/pocsuite3",
-        "up_time": "2025-01-25 03:13:52"
-    },
-    "3af0829e8db31b33a77137f4f8d92600": {
-        "name": "ftp_burst.py",
-        "from": "https://github.com/begaad/pocsuite3-pocs",
-        "up_time": "2025-01-25 03:13:55"
-    },
-    "d2567d2523b2d9baababffd83bd70dd9": {
-        "name": "telnet_burst.py",
-        "from": "https://github.com/begaad/pocsuite3-pocs",
-        "up_time": "2025-01-25 03:13:55"
-    },
-    "8184e7f5fd5c7fce46d6adafef5bb915": {
-        "name": "demo_poc.py",
-        "from": "https://github.com/begaad/pocsuite3-pocs",
-        "up_time": "2025-01-25 03:13:55"
-    },
-    "509987da666302870ae760b7f3769833": {
-        "name": "20190404_WEB_Confluence_path_traversal.py",
         "from": "https://github.com/knownsec/pocsuite3",
-        "up_time": "2025-01-25 03:13:56"
+        "up_time": "2025-01-26 03:15:59"
     },
-    "3865f383e694ef0ec79bad355e52054c": {
-        "name": "thinkphp_rce2.py",
+    "674e94f364fdb63ec8f1f5eea750376a": {
+        "name": "demo_poc.py",
+        "from": "https://github.com/The-Cracker-Technology/pocsuite3",
+        "up_time": "2025-01-26 03:16:00"
+    },
+    "7bb17db4cd831a2eddb26643c4847fa1": {
+        "name": "apollo_weak_passwd.py",
         "from": "https://github.com/WZY3641572/pocsuite3",
-        "up_time": "2025-01-25 03:13:57"
+        "up_time": "2025-01-26 03:16:00"
     },
-    "aaa29768d97eff36d3fc58a3886bd3aa": {
-        "name": "CVE-2021-46422.py",
-        "from": "https://github.com/WZY3641572/pocsuite3",
-        "up_time": "2025-01-25 03:13:57"
-    },
-    "45bdb0abff7b41c2babe9fd7f05f323a": {
-        "name": "CVE-2022-26134.py",
-        "from": "https://github.com/WZY3641572/pocsuite3",
-        "up_time": "2025-01-25 03:13:57"
-    },
-    "b6e0dbaf925d1ba9b4ca370d31bcd8aa": {
-        "name": "广联达Linkworks_msgbroadcastuploadfile.aspx后台文件上传漏洞.py",
-        "from": "https://github.com/luck-ying/Library-POC",
-        "up_time": "2025-01-25 03:14:02"
-    },
-    "cc9c04cef292b3b3473f49c3efc93b74": {
-        "name": "__init__.py",
+    "aba916fba4573ce7ea868007c90d1b85": {
+        "name": "CVE-2022-22954.py",
         "from": "https://github.com/20142995/pocsuite3",
-        "up_time": "2025-01-25 03:14:03"
+        "up_time": "2025-01-26 03:16:01"
+    },
+    "02dfcbe0be4f3f51e71e4055b2272d0b": {
+        "name": "CVE-2020-24391.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:01"
+    },
+    "94f6a385bb0ce4459c65545efc36c88e": {
+        "name": "e-cology-xmlrpcservlet-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:01"
+    },
+    "9c33fecd7e17a7e17a9b3e5ade8412ae": {
+        "name": "oa用友nc控制台绕过漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:01"
+    },
+    "b65e3f3dff660ce70afc495b795fae9d": {
+        "name": "致远OA_A6_config.jsp_敏感信息泄漏.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:01"
+    },
+    "9ab0952bd90ef69e0bfd5b94e8f91f97": {
+        "name": "3Ajax.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "38933216c00e227963ac5efec89c784c": {
+        "name": "tongda_down_infoleek.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "1512752c9aecac311891b2083b3a6dc0": {
+        "name": "oa通达OAquery.php存在SQL注入漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "97c45384873d8b1f72c1b9434856dcd2": {
+        "name": "oa用友 GRP-u8sql2.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d9d12e93938d9dcbfc108809c0a2d2c2": {
+        "name": "trx-topsec-static_convert-rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "f588d1b2bb49b1c6de064829a2117897": {
+        "name": "F5-BIGIPiControlREST绕过授权访问漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "137ac259c23cba3b012ae9329f602964": {
+        "name": "oa泛微E-officeflow_typeflow_xml.php存在SQL注入漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "7e5630334361fc0facb6810ff57701b0": {
+        "name": "feiqi-parsetree-sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "af18e8425781b5dd65135ec9368c5161": {
+        "name": "致远OA_webmail.do_任意文件下载.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "786c079359bb4c9d7da6d619e9cbd0af": {
+        "name": "kerong-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "1fc25e07ee408bde203aadcb252a06db": {
+        "name": "Apache Druid LoadData 任意文件读取漏洞 CVE-2021-36749.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "11d45107134d6669a710ab6e8bd00b0c": {
+        "name": "jeews_showordownbyurl_do_file_read.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "105440d0e51dbc60b4fc247686e16f45": {
+        "name": "dongsheng-getdatalist-sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "2182ac17856154b6f42fe7e07cca9a64": {
+        "name": "hongjing_app_check_in-get_org_tree-sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "bbf4660642980dd8736558d29b4ca1bc": {
+        "name": "ftp_burst.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "60f2f0fc6c7f8687de28dabc4cd173a6": {
+        "name": "vpnqianxin任意密码重置.py.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "45b9ca3ff931a5095ce5f0ceb154d733": {
+        "name": "oa泛微OA-V8-LoginSSO注入.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "67e7a3c76061109f858e29f6072ef65a": {
+        "name": "3.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "b87605a873be6ba0f2317acf8af383e3": {
+        "name": "4Atlassian.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "6bc9cdf676d720e8ede343501f0bc9fb": {
+        "name": "enjoyIT_CWSFinanceCommon_SQL.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "ac9878e507f07712d515be68cd615fba": {
+        "name": "CVE-2021-35464.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4017e8f658afb1859ef9cca3b3b0f17c": {
+        "name": "oa泛微OA E-mobile v5.0 ognl注入命令执行.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "7f8400ad3982b22a98cceddf2c74e217": {
+        "name": "金山防毒墙任意文件读取.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "a0ca460498e09dde88d29c50c5c173b0": {
+        "name": "yongyou_u8crm_readfile.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "1dc26070d11265e9314f1f89509c3d69": {
+        "name": "亿邮电子邮件系统命令执行.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d8f33e1b486a7094fb51df2eabb70fb6": {
+        "name": "yongyouu8-cloud-upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "8dcfe83f90260277879bcd1da38377c6": {
+        "name": "yongyou-nc-cloud-soapformat-xxe.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "92df14d0b16625c39e7c9af278e3cf85": {
+        "name": "thinkphp_rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "fe0f3515bb58c96b89674f03812141f4": {
+        "name": "yisaitong-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "9489c8648698ed93a669f8cddca56ab6": {
+        "name": "oa通达OA 任意用户登录.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "a36f6f55d939512b9d1dc92902be4ea4": {
+        "name": "kkFileView getCorsFile 任意文件读取漏洞 CVE-2021-43734.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "3be81a56a5c711e1f3bc2ef146ccbc1b": {
+        "name": "imo 云办公室 Imo_DownLoadUI.php 任意文件下载漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "67a33b43a92ea33efc10474951174ffd": {
+        "name": "elasticsearch_unauthorized_access.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "248f4678bde9d8a4194c2c962d19b69b": {
+        "name": "oa泛微E-officeFlowCommon.class.php存在文件上传漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "85d48864b44167e79b5478f0e61fcb01": {
+        "name": "CVE-2021-43287.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "56f6a2c50bf58952ea23bff39594cb65": {
+        "name": "oa泛微OA-getSqlData注入.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "98beeadd77f51a6053e93b29bdf37241": {
+        "name": "9.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "9bebfd87177ab34a9953b2007b43709d": {
+        "name": "11.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "aa0eb840680bf2459b21e2c7e6c22984": {
+        "name": "oa致远_weakpassword.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "0de5309bb6b880695dcfd1dc6513bdcc": {
+        "name": "thinkphp_rce2.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "a73fb721a33edd210f627ce55da9adde": {
+        "name": "redis_unauthorized_access.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c958fec3bbf1e9b406b08d9607211ef0": {
+        "name": "oa用友文件上传accept.jsp.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4335358a84daca4bd4410b14b2b6544f": {
+        "name": "MessageSolution邮件归档系统EEA信息泄露漏洞CNVD-2021-10543.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "74b72b17b223a8920298fd2a24b80b72": {
+        "name": "DedeCMScommon.func.php远程命令执行漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "0e9fce1f8264269fca88a5fc94017110": {
+        "name": "Confluence未授权RCE.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "216995dff3d66cecbe7c6bee5f62c8fd": {
+        "name": "fanwei-yunqiaoe-bridge-sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "259deb423393ebfeb6122a90759fec7b": {
+        "name": "Education_cloud_platform_upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "1aa6c077f5ac57c6a19be2f68b78a266": {
+        "name": "node_red_unauthorized_rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "e4c8ac627a6546d0d31a80f3de96c300": {
+        "name": "12.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "68993ea6678b3ad19247e8bc4a927e2a": {
+        "name": "2.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "474e05bf217f281eb98aa8f6fd45ae96": {
+        "name": "海康威视摄像头管理后台未授权访问.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d41de33bc83555ee6fe631c1a65a92fa": {
+        "name": "yunbaoan-fashjson.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "ad72a926a97fdafdce1e3377973cbe05": {
+        "name": "oa泛微OA-getdata注入.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "43ab7138c8a5ff14950c5d55b8e6b1b9": {
+        "name": "bangguanjiaCRM-ajax-upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4144ff7efc89a502f05e875e6cf86298": {
+        "name": "金蝶OA-EAS目录遍历.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c3ac0696757ff28e0b2b007b2da284f4": {
+        "name": "0005_Mssql_Dionaea.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "007a5bdb802ea3654bb67246e72eb7e9": {
+        "name": "BlueCMS_1_6_xss.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d2bb8360b61a24ea7f4bf03853b13b95": {
+        "name": "oa泛微E-officeE-mobileAppinit.php存在文件上传漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "a4470a0471b2d9e30cea30a5af514b57": {
+        "name": "oa泛微0day任意文件读取.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "aa9ff4713799fc0b9fec2a6a9e088aab": {
+        "name": "CVE-2022-26532.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "398b448d540dba151136e8fe1653bcae": {
+        "name": "dahua-DSS-struts2-045.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "e89d85e70af1a0ecaed745308bbddc88": {
+        "name": "feiyuxing-ruokl.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "b25c49003c903df2c424ff184cd60dc2": {
+        "name": "landray_oa_sysuicomponent_file_upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c29ed3dad2444b9d19a845f786fb9aa7": {
+        "name": "sudaruanjian_upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "f10674615ff13d770522e9556747cbfc": {
+        "name": "汉王人脸考勤管理系统 Check SQL注入漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "2e8c92011037e74813c0260499f5824e": {
+        "name": "CVE-2021-32305.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "5cac377dc961aa08204c366bdba5e09d": {
+        "name": "zzcms_8_3_sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "349d753eea673191f66f7998f4662463": {
+        "name": "蓝凌OAtreexml.tmpl存在远程命令执行漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "3e7a41d9f8c8b0b4e42f09c862a88082": {
+        "name": "bangguanjiaCRM-ajax-upload-chat.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "625721a7c8a99e4f966ebf133c2944c4": {
+        "name": "oa用友nc反序列化ServiceDispatcherServlet.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "f1cf2a724e41287e6f6495fb4a56345d": {
+        "name": "huawei-Auth-Http-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "fbe5963afd4846215df090ebe4766338": {
+        "name": "drupalgeddon2.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "66348e292f074cb6dbcec7368443ddae": {
+        "name": "dongsheng-saveuser-sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "e231cd24151f763a9583dd3a8ea0fe28": {
+        "name": "金山 V8 终端安全系统 pdf_maker.php 命令执行漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "afa5d646781e381612c257d050a39532": {
+        "name": "jetty_6_x_xss.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "0a83eb847678b46801fcaee79af1a2a7": {
+        "name": "telnet_burst.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "6f6c2607a8fba380851ff584fd3fd2e1": {
+        "name": "泛微OA_E-Cology_browser.jsp_SQL注入.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "55e365904b88bf1386a2fef85a1ee051": {
+        "name": "蓝海卓越 计费管理系统 debug.php 远程命令执行漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "5b1e05a3e2e472ec06eb4d215e972a9c": {
+        "name": "Fhem FileLog_logWrapper 任意文件读取漏洞 CVE-2020-19360.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "28692afe0604c5e176c72bae5787f2bf": {
+        "name": "oa泛微e-cologyweaver.docs.docs.ShowDocsImageServlet存在SQL注入漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "bf3b40781bd7d90e268e126ed819aa0c": {
+        "name": "ZX_sqlPOC.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "118532f8779b70319314f3d0fd91dd0f": {
+        "name": "oa泛微E-officev10leave_record.php存在SQL注入漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c4b104e5779bd9973f86e9a4042d6078": {
+        "name": "array_vpn_fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "8232adcedb79c9f8d789f5d99b7c0a0c": {
+        "name": "libssh_auth_bypass.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "ae640ea8d60fb69a7a8f58bd8cd2398d": {
+        "name": "nc-actionhandlerservlet-unserialization.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "0078532b20e809c7dd70f6bcd4f07346": {
+        "name": "IP-GuardRCE.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c4e39f3bd95ae4d4984dd52fbf57f160": {
+        "name": "oa用友 GRP-U8 U8AppProxy 任意文件上传漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "2353fff83c27dc344b6c50c28f370902": {
+        "name": "hongfanOA-iorepsavexml-upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "58967751f8a6e2d0a7ab192abae10d3f": {
+        "name": "datang-dianxinAC-information-leakage.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "f0356a873b8a50b7b1a2c49c79cbc8bc": {
+        "name": "likeshop-upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "f65ad699bede7cf5169eab304286e79f": {
+        "name": "secworld_info_leek.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "f37ebf3b24987d71d0a7c2002523144c": {
+        "name": "edusoho-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "62ea286a914ae96a835ea743f8c6c2bd": {
+        "name": "致远OA_getSessionList.jsp_Session泄漏.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "9320b394944d0831af39b8640dfa6f5c": {
+        "name": "CVE-2021-27748.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "1cd126d2f52e115cc14345b6ca071f57": {
+        "name": "oa泛微数据库账号密码泄露.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c033388d5e36306a345602508e353f5e": {
+        "name": "oa泛微云桥e-BridgeaddTaste存在SQL注入漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "faf039178a60d72f66ff5eef7737b38e": {
+        "name": "联软 UniSDP软件定义边界系统 commondRetStr 存在命令执行漏洞DSO-06793.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "245a8092405d21b78f488d87fd227fc1": {
+        "name": "紫光档案管理系统 editPass.html SQL注入漏洞 CNVD-2021-41638.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "50dc3f05f47b487dc3e40064faaa16da": {
+        "name": "金山 终端安全系统 interpdf_maker.php 存在命令执行漏洞DSO-07033.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "a53634eaa6046d6ac2f579663bbeaac2": {
+        "name": "10.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "fdfce8d197ec16700ae4587d72e6fd81": {
+        "name": "atlassian-confluence-rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "1c7079ae1cc127da849b25fc6a1b162e": {
+        "name": "jinhe-jc6-upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "b9d3ba25181ba75a56442c80642c48dd": {
+        "name": "springboot-apiblade-user-sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "46fc355478bcc4b99e4c600c13d78af4": {
+        "name": "ecshop_rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "f06b0898cdb476c2daf5001d5a390f06": {
+        "name": "yisaitong-policyajax-sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "dbb0906b0dd8373793daef8a54582628": {
+        "name": "shikongzhiyou_formservice_uploadfile.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "8288d05acd6e1cb9d6cc63da41c2fa58": {
+        "name": "1Business.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "f627c1f5de1c424538a00bd248e277f4": {
+        "name": "jinhe-getattout-sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "5fb4cfed4c0a0b5a9f7a74d924861de2": {
+        "name": "wangshen-SecGate3600-information-leakage.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "190bee35a06ed6a1d565b72f46960a0d": {
+        "name": "CVE-2021-21402.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "cbd88b8f9b7fcf606d42eb792aa5da97": {
+        "name": "oa红帆 ioffice 医院版 sql注入.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "3db19985b65e07175f389fe7fad3ea27": {
+        "name": "oa通达OAget_datas.php前台注入.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "020edcd0a73a1ceac05e54fe3bba8e4c": {
+        "name": "CVE-2020-14882.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "729de95a9af451f7a09d1836abff20b2": {
+        "name": "0008_Netbios_Nepenthes.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "583d80cddfb5db2f2e5f007e5e344c52": {
+        "name": "enjoyIT_cwsoa_SQL.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4ef345bc6a9202eee45c8ece0b8e2234": {
+        "name": "大华-任意文件读取.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "af5e38bbf71e5a0eb7d7dc45fe33b018": {
+        "name": "泛微OA_E-Office_mobile_upload_save_任意文件上传.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "8fe0030774034208293a0f289f0ecd04": {
+        "name": "0013_Ssh_sshesame.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "8284232a1db6ee3c548ffc81a54bb3fd": {
+        "name": "CVE-2022-21371.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "a0f5613a3ae457e3ebe935b2decb1a76": {
+        "name": "oa万户OA-任意文件读取.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "a9fb48f4cc7333e8cd9071379069f0dc": {
+        "name": "CVE-2022-23944.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "5f3686f32620b637605e0c61bb9e86eb": {
+        "name": "绿盟BAS日志数据安全性分析系统存在未授权访问漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "5e9402e184b17869d76d15e02d257509": {
+        "name": "CVE-2022-21661.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "050d0d1a8924c1baea5d11f239453cf5": {
+        "name": "JieLink_zhineng_sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "1f18f2adddfb7578310f88b35c34ef1b": {
+        "name": "oa致远OA A8默认弱口令.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "72cd7d45e89f2de00615a9b5a62adfb8": {
+        "name": "锐捷_EG易网关_上网行为管理系统_信息泄露.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "493fb3369ff1a10b5531449f172e8bfd": {
+        "name": "CVE-2020-14883.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "485a7661a075b33566c0262d969bdb01": {
+        "name": "oa瑞友天翼应用虚拟化系统 GetBSAppUrl SQL 注入漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "1d76d795536e11d9f6cb91c44d6f61e2": {
+        "name": "网神防火墙任意文件上传.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4e62bc0ab779365cce56e2a72ad89fac": {
+        "name": "oa通达OA 2013 2015 任意⽂件上传漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "2a03f3096c038075f914470cb8583e3f": {
+        "name": "Atlassian Jira cfx 任意文件读取漏洞 CVE-2021-26086.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d1f35152b3ecefc42c8f4782ff20500b": {
+        "name": "oa泛微e-cology8mobilemodeAction.jsp存在SQL注入漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "114b8d1d9d75f6199e81c62f2a2cb27d": {
+        "name": "oa泛微云桥 E-Bridge 2018 2019 任意文件读取.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "7452049e34af4c30ccff58cbbe8dab69": {
+        "name": "oa泛微e-cology存在任意用户登录漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "129e16ed10bceeacc908de16dcc3f174": {
+        "name": "jinhe-rssmodules-sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "582cda682f045958c096ddc644bb5a5d": {
+        "name": "7.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "721b60bd38f2d6c58f4fe655e3a92a0d": {
+        "name": "XYHCMS_3_5_download.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "90340ac08e2a4d37667d87a86b379f2a": {
+        "name": "oa致远OAdatasourceCtp.properties配置文件下载.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "5dfa02eae0cc469adba0b88bacb1c0e6": {
+        "name": "0001_Tcp_whoisscanme.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "13421e0ff8b93382d17c9c1ee234f5c7": {
+        "name": "Citrix XenMobile 任意文件读取 CVE-2020-8209.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "36a1cd07d24079864934c233066de71a": {
+        "name": "CVE-2021-40822.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c490d7e65eb0eb1875ee9167026dd560": {
+        "name": "TerraMasterTOSexportUser.php远程命令执行.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "aecd534bb43325daed89df9c2d482ed6": {
+        "name": "zantaopms_CNVD_C_2020_121325_upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "835b5a1e4d85af8acd1daf6cecdcc2ec": {
+        "name": "Flink_201111_Unauth_RCE.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "0a54b544e578a598ca8b62b5b868d45f": {
+        "name": "绿盟 VMWAF REST API sysmgtpasswd 存在密码重置漏洞DSO-07088.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c7fe18d7cb4d3da417a46370d6d95cee": {
+        "name": "oa致远wpsAssistServlet任意文件上传.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "06db59b1fbd3ea3e682ca31549c616fa": {
+        "name": "ifair-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "6832e47349d5318fa1b5468b4d0881c9": {
+        "name": "jiecheng-CWSFinanceCommon-sqli.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "069aae7e0d1a23ec38c4c275da03ceef": {
+        "name": "RG-UAC-RCE.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "8c812f558afea929b2a8d5998b3e4e38": {
+        "name": "zhedaenkeMailActionUpload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "0dcc04d3ee58c3b05ceee7501abc32d7": {
+        "name": "魅课 OM视频会议系统 proxy.php 文件包含漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d5abf28fae8fc19e7154a5a044d5dfe3": {
+        "name": "20190404_WEB_Confluence_path_traversal.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "5b96e26d6510e085c87e34250ab57566": {
+        "name": "yunshikongERP_upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "f95252400a2c4e55df035fc04d19e95a": {
+        "name": "I-DocView-readfile.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "26bda88d90ae820f89139980ce36fdfc": {
+        "name": "蓝凌OAsysuiextendvarkindcustom.jsp存在SSRF漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "fd02428963558d5916c5340fb86b39af": {
+        "name": "gitlab未授权RCE.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "9f11fcfbab7c3bde70e156182c09c617": {
+        "name": "oa泛微OAE-Office-mysql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "3d059d4381cdbe5fe5f3da394b01552a": {
+        "name": "vpn奇安信网康下一代防火墙RCE.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "24ae29c5e53d58808a68276254f47367": {
+        "name": "oa通达OA sql注入漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "36fbd5df351860d4d3d8657fc75b7291": {
+        "name": "宏景人力_servlet-codesettree_sql注入.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "5f81afc43581a0b6c19f4904e8a716ca": {
+        "name": "trx-topsec-cookie-rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d9febd6e5f240b7006b72481e4f5222c": {
+        "name": "Metabase geojson 任意文件读取漏洞 CVE-2021-41277.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "85d2ff8fd7013c950a5d5847bb25ea2f": {
+        "name": "oa泛微e-cologySptmForPortalThumbnail.jsp存在任意文件下载漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "dae55447b2027660d71d4055452d2eaf": {
+        "name": "oa泛微OA E-office未授权访问漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4bedeaf39f2af85eee5a568943f8e756": {
+        "name": "superdata-upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "12b34a4cf4eab9a8d8b6e3b0f759d772": {
+        "name": "newcapec-CampusMobileServiceManagementPlatform-RCE.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4e3f35ac51c8e3503536a60acabe1e3b": {
+        "name": "wanhu-text-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "114943a81726ee51433ab6f03ce6f9fb": {
+        "name": "CVE-2022-23134.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "3619b50f64b355ead2b8d9402b07f9a9": {
+        "name": "TurboMail-view-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "61f8c4364a1ffcbfb9a97174750448dc": {
+        "name": "yearning-front-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "72dec321f0c83da2373fea954ced10f4": {
+        "name": "yongyouNC-upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "507496ea8ed75f1169f348e1ee328f96": {
+        "name": "oa红帆文件上传iorepsavexml.aspx.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4c2c7c9cae029c8b3090b26b8f467bde": {
+        "name": "fanweiOA-xml-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "b6f2823e2458393a0a494516d9ccfab8": {
+        "name": "vpn360任意密码重置.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "8155d32bc97b9427c3d1f77c9d29c0b3": {
+        "name": "oa泛微E-officegetFolderZtreeNodes.php存在SQL注入漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "ef5a0f50b92562963b9b4a3dff900f4d": {
+        "name": "vpn深信服 行为感知系统 c.php 远程命令执行漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "9fea9f9f2479d26903be0237a13163c4": {
+        "name": "en_sunflower_RCE_EXP.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "9409ed8a65be9aeb4343573eb4669848": {
+        "name": "nginxwebui-runcmd-rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "e68b1cdebfeedc6cfb987c3ac19c99ea": {
+        "name": "idocview-doc-upload-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "fc679015cc8bfc249df19b803a23883a": {
+        "name": "CVE-2021-22986.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "cd9b095df182f71f111fd25a98297b44": {
+        "name": "oa泛微e-cologyuploaderOperate.jsp存在文件上传漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c1b9fe1199ff4df9d6d2e31583631330": {
+        "name": "oa用友nc 多个反序列化.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "a34a8df5ed25d933a212a6a195b54c66": {
+        "name": "_1_dahua_info_disclosure.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4935584497180ea3be010d12404ee42a": {
+        "name": "浪擎科技 DAYS容灾软件存在任意文件读取漏洞DSO-06706.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4d1528b9e284e4c2fd77f1207acc5e99": {
+        "name": "tongdaOA-Authenticatio-bypass.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "eacf410d8a261ea13596005aa496fb18": {
+        "name": "锐捷_EG易网关_WEB管理系统_前台RCE.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "12a40bc265817af89c0353600b57f47a": {
+        "name": "H3C CAS 存在默认账号密码漏洞DSO-07112.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "b892bff7c632244689ca03a30b0c508b": {
+        "name": "联软UniNAC网络准入控制系统 任意文件上传漏洞DSO-02484.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "a45c362a3c1388af1e42caf1fd2d2cd8": {
+        "name": "oa万户ezOFFICEOfficeServer.jsp存在SQL注入漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "e584f55e6cda420afaa00927f1dd8f59": {
+        "name": "entsoft_fileupload_jsp_file_upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "fe8da5795511d4c811104a64bf52640f": {
+        "name": "银澎云计算 好视通视频会议系统 任意文件下载 CNVD-2020-62437.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "85b2c3fe08c185aa99e42224409085af": {
+        "name": "oa用友_setextno_Inject.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "808a7ed5bf72073f7f06edc9bbbc52f3": {
+        "name": "oa用友畅捷通T+DownloadProxy.aspx任意文件读取漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "34b6eab2afcfd862b948cf222ff08913": {
+        "name": "0011_Memcached_Dionaea.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "71f2ada20af0a9199e3ea67d7823d70f": {
+        "name": "泛微OA_E-mobile_lang2sql_接口任意文件上传.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "e4bb4ef4f6cdd5ba843cbbc6fc2ca986": {
+        "name": "beijin-ucenter-rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "8de32936d052d10741d3d445b0dd4198": {
+        "name": "蓝凌OAdatasys-commondatajson.js存在反序列化漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "14e1d19731c99ce905f382fea8cd18d3": {
+        "name": "Multiple-vendors-RCE.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "99b3b42c8eda2a19cf2da23e95af1feb": {
+        "name": "wanhu_OA_any_upload_file.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4ae0e216333f44a32c1cb43943460320": {
+        "name": "2Casdoor.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "9a7df3da11b09107c4bbfb3acca60151": {
+        "name": "hikvision-files-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "81fef02f2867a383d8731df80b036044": {
+        "name": "拓尔思 媒资管理系统存在信息泄露漏洞DSO-06198.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "ce9956507baf71e15dfc83f63bdaa530": {
+        "name": "_0_wxwork_info_disclosure.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "ea7a7bef59a7caa8e17fe46a97767768": {
+        "name": "shikong_Login_Any_file_read.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "a9b0143b9fe0c7461be76081064f76be": {
+        "name": "ezoffice_wpsservlet_upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "167fb36c33b9a3d6b9ea27472affa13e": {
+        "name": "锐捷Smartweb密码信息泄露漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "57ada0ed5040ef0a7b481f000fb98a91": {
+        "name": "transense_ajax_sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4d6ae62eb1f63b2b357e18843f8ddf8f": {
+        "name": "CVE-2021-26294.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "a122e5e814a5ab7bd7d7841d0498e8d7": {
+        "name": "CVE-2021-36749.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "7b8b0b8c93ab17f2ff461a1387f02954": {
+        "name": "浪潮sysShell任意命令执行漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "12004324a21db9384c2b39c7d4d65264": {
+        "name": "yongyouu8-CRM-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "1466e7e494d6806fc8da45cf2cb372b4": {
+        "name": "CVE-2021-3223.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d4bbaa3119aa0937d5695f5d6e33db4d": {
+        "name": "oa致远OA A6 - v5 任意文件下载漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "59395dc13f52ed99e976ece949578956": {
+        "name": "yongyouU8-doupload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "2e818efba852256a050adea9cbfdab04": {
+        "name": "zdek-followaction-sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "8d6bf3ca1bfeb784827a0dbfb788ee4e": {
+        "name": "oa致远OA A8 系统远程命令执行漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "44700cd803c5c08cf523718d6bc37bf5": {
+        "name": "wangkangrce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "8b9b4dccf407f9b17c8f4cb8cf554c4d": {
+        "name": "BIG-IP F5 CVE-2020-5902.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "ba662e16b0ad460417d90b9e79fcf376": {
+        "name": "oa用友_BshServlet.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "6190696ebcba63c1765ea6046149f916": {
+        "name": "haoshitong-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "cd45ece8b64ea1fa95b01f8485b02b66": {
+        "name": "hikvision_gateway_fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "6b63b9b9183cdc6a6735ff57953f93c5": {
+        "name": "TRS MAS testCommandExecutor.jsp 存在远程命令执行漏洞DSO-06017.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "5c67cfc9013cfead33dd233603e1d328": {
+        "name": "Atlassian Jira ViewUserHover.jspa 用户信息泄露漏洞 CVE-2020-14181.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "29b9e3aec4fcc8e4dcf790c613c6318c": {
+        "name": "oa万户ezOFFICEDownloadServlet存在任意文件下载漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "dc10c3a97d9fe8723197ff8dc4efef1f": {
+        "name": "禅道16.5等最新版本存在前台SQL注入漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "3ac24848fcb3532870c827fb42134496": {
+        "name": "CVE-2020-13937.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "6e73bfae1fb46770b9c99947ad2baf8c": {
+        "name": "apache_flink_cve_2020_17519_download.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "ae000e82a7b2d087edc4264c5c3236cc": {
+        "name": "oa用友OACheckLogin存在SQL注入漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "7562ac2b7e98072961c3971bf49bc0a0": {
+        "name": "drupal_CVE-2014-3704.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c3b269df7624998a23f7243e3c212bbe": {
+        "name": "oa红帆OA 任意用户登录漏洞1.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "55b6c8db96ace105e7612be40046051a": {
+        "name": "ssh_burst.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "55cff4512678e99e39e5b9f53a9de731": {
+        "name": "oa通达OAv2017video_file.php任意文件下载漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "904c4822294ddd7d9f9fbab32015a575": {
+        "name": "oa万户oa前台任意文件上传2.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "6a9cc0f21257947437bddb2d583a8a94": {
+        "name": "huawei-auth-http-readfile.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "dab77daae9471200e788362a55acb7a6": {
+        "name": "4.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "42b5d2960c9fe982e14f3aef626d3a20": {
+        "name": "vpnArray Networks SSL VPN 存在默认账号密码漏洞DSO-07122.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "40e2599fefdf6d519db8217398a00182": {
+        "name": "Ofcms_1_1_2_sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d6ac80617323d50e79b400436637d059": {
+        "name": "ClickHouseAPI数据库接口未授权访问漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "516dfcecbcd097bb6959754bb3a6bff3": {
+        "name": "oa万户oa 前台任意文件上传漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "2b4efcb0c0445449b9ddd6fad7abd4df": {
+        "name": "zhedaenkeeditAction_SQL.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c23166dda09ea4d1fd367c0daeab501a": {
+        "name": "CNVD-2021-10543.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "2bca8f8b5e9cdc33192b88a428fb4111": {
+        "name": "oa泛微OA-E-Office文件上传.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "cc3b3f58940553371f341ef3a2a9cbc1": {
+        "name": "oa通达OA 2017 任意文件上传漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4c92d51d3fea226da1f51569d67f2a1d": {
+        "name": "H3C_ Network_Management_System_ Any_file_read.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "2ba39d6a13846f174e203846d9d3d1e1": {
+        "name": "yongyou-ufida-nc-unauthorized.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "bd7042218ae19de0b9690a421da87dce": {
+        "name": "milesight-vpn-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "af72d34400af84b5bbcfa2386a3337e0": {
+        "name": "OfficeWeb365_Pic_Indexs_fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "fe713f1659a805200c21cc922f542a87": {
+        "name": "GoCD plugin 任意文件读取漏洞 CVE-2021-43287.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d0247f1e09f78be550a19be6ed053781": {
+        "name": "_99720_ecology_xml_inj.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4a8f48980b41701a9017549104eb3395": {
+        "name": "office-web-365-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "f26884b306ce6739d5679642d72ebf4a": {
+        "name": "dahua-zhyq-deleteftp-rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "004422f5f664607cc2aa19b755ae105e": {
+        "name": "0002_Telnet_Cowrie.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "e1caa0b69eeaefbe05219084a53d73c6": {
+        "name": "oa致远OA-DownExcelBeanServlet信息泄露.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d4c8dbe8c5aa3c216ed794d5a7fcfebc": {
+        "name": "enjoyIT_CWSHr_SQL.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "266f8ceff0231faf30c5d4e72c91cdea": {
+        "name": "Apache_Kylin_CVE_2020_13925_rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c7a3dcdb3f343d109598d165710b9dd6": {
+        "name": "oa泛微e-cologydatas存在敏感信息泄漏漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "b59a2bdc1eb5c71af179fa787f99d18e": {
+        "name": "oa致远报表密码泄露.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "acef9be2a21e37a4d5f6747ab82a3b94": {
+        "name": "dongsheng-Tcodevoyno-sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d72a2fc8394c5e0e6ae4d9883616d1d5": {
+        "name": "0006_Ssh_kojoney.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "14d859f359d12e79212d9fc04f04f3bd": {
+        "name": "aoweiya-VideoCover-upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "8c3854718dd0882879d9c70d631277a2": {
+        "name": "Grafana plugins 任意文件读取漏洞 CVE-2021-43798.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "db9565894919138706218b639b1b38d8": {
+        "name": "solr_all_readfile.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "b8397af6b03aa55c4539e0b61102be18": {
+        "name": "yongyouU8-old.jsp-sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "5a198ef26e3ebdcc8057c7cc16baa924": {
+        "name": "oa用友 GRP-u8 任意文件上传漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "b83c4edf5224e091c639b8e2de0dcd02": {
+        "name": "oa用友 GRP-u8 sql注入3.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4536fe74888bcf68bc678a1f7ef4934c": {
+        "name": "CVE-2022-24124.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "f7e1f5d54257c3952f16d8747c862400": {
+        "name": "yushi-isc-logreport-rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "7639e25b8559fd9f09879ab31cc9f3ef": {
+        "name": "oa用友反序列化DeleteServlet.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "7f960d297ffff4683560e651f2469ba1": {
+        "name": "CVE-2021-32820.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "e6a1ab4097e0b011bf7af75c06f3f2f0": {
+        "name": "oa用友_U8_getSessionList.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "e7f9bdb79db4a246f44defd20c849d39": {
+        "name": "oa用友ERP-NC目录遍历漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "9d2dfda07083e1c76a8ecb59e1120ea1": {
+        "name": "NC_Cloud_word_fileRead.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "9cdaccadbd6c2eb4261891a7275d36b4": {
+        "name": "AlibabaCanalconfig云密钥信息泄露漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "0861a496e2becf22bc144b8b6c79b72f": {
+        "name": "hongfanOA_iorepsavexml_upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "45fa505be57de54599f94ad6bb6c7c76": {
+        "name": "Citrix-LFI-CVE-2020-8196.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "bfe2a0418f851cb278d39c218905d9e5": {
+        "name": "iDocview-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "ed02772030610820151b0fa053edd9b6": {
+        "name": "oa致远OA帆软组件ReportServer目录遍历漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d0aa1c5e432691c370399dceeffe9b15": {
+        "name": "e-bridge-SQL.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "fa16767c4094161284f02a0b75936e3f": {
+        "name": "5gui.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "9209e13579ff865de7f416b1adf87834": {
+        "name": "海康威视综合安防管理平台env信息泄露.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "cb36766cb9a48302ec49db5606003791": {
+        "name": "畅捷通sql注入文件上传组合拳.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "facfef6601b9e2e1bcffc90fd26475de": {
+        "name": "livebos-crm-scriptvariable-rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "3d6b2cb2dfa280c7bbb99336b881d4d9": {
+        "name": "CVE-2021-41192.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "eb8b979ae5c4e07cd32fce12868205f7": {
+        "name": "向日葵check远程命令执行漏洞CNVD-2022-10270.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "33c38cebce3dac1d537f94e0e712e211": {
+        "name": "jindieyun_ScpSupRegHandler_uploadfile.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "051cbd84db531d5ecc005fa4b60d0c64": {
+        "name": "广联达Linkworks_msgbroadcastuploadfile.aspx后台文件上传漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "55cd151d42eea5ae95d8251dd7232c2a": {
+        "name": "oa万户命令执行.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "736de2b189f7b04940f728193db88b4d": {
+        "name": "kerongAIO-utilservlet-rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c5b397bff53a005feb24dcaa6518bbcf": {
+        "name": "Nexus_CVE_2019_7238.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c4c4919cdafe120278619fa75f73528c": {
+        "name": "topsec-maincgi-cookie-rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "22e34abb5f076d15ed1ac14ef5f08aff": {
+        "name": "CVE-2021-32819.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "003ad212038c44f01a1458aeb046641e": {
+        "name": "rwx-CRM-smsdatalist-sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d33e9a33ce1df23ef847b5de098d962f": {
+        "name": "蓝海卓越 计费管理系统 download.php 任意文件读取漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4a89206b860587061ce18b9974bb2406": {
+        "name": "H3C-任意文件读取.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "219e54c3120232528a25e955ee8f6351": {
+        "name": "Crawlab file 任意文件读取漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "96f075a73423942b3f763a4b180bb66a": {
+        "name": "锐捷_EG易网关_上网行为管理系统_前台RCE.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "337dce5c8bbc82f2929dcdabf4684423": {
+        "name": "wd_nas_login_bypass_rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "763c782ffb2fac9f7ed76d8d77205247": {
+        "name": "zhedaente-upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "9b2f8e9f601f0bdeed8d841236e57cfd": {
+        "name": "泛微OA_E-Office_uploadify.php_任意文件上传.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "6d7d8231b9fc7ad9f32b4ba82d5f082f": {
+        "name": "oa致远报表文件读取.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "56c324ce0471447ea6d4b17fcec9cd85": {
+        "name": "oa用友GRP-U8sql注入.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "c731d62bdab9250ebc344ed5d77dc1b8": {
+        "name": "dahua_zhyq_attachment_fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "fd75698cc5021b0e2cd1583d37d9fb74": {
+        "name": "security_products_rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "2443bd62314f56818deae10ac364d261": {
+        "name": "javamelody_xxe_CVE_2018_15531.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "cda133df26da5c7383caa8b4ab4b6838": {
+        "name": "致远OA_帆软组件_ReportServer_目录遍历.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "416e3de7b6ec53d8e62fc593be4b433c": {
+        "name": "seacms_6_45_rce.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "47674d794c201872a66224e0be5836a5": {
+        "name": "haikang-fileread.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d7c22e02dc199556f8b308e4b727dffc": {
+        "name": "oa泛微OA-前台RCE.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "abf7f31bd686b673e534f54c029d19d1": {
+        "name": "mingfei-list-sql.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "74bf359f1af8b292f218146207058904": {
+        "name": "CVE-2020-17519.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "e2e57b3bce7c8dcf127c0b0b22a67cd0": {
+        "name": "phpshe_1_7_xxe.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "d26377bbb77a5a1ef0ac6a745e79974b": {
+        "name": "zdek-crmbasicaction-upload.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "76d24a6067698d2547af33001d6ca714": {
+        "name": "dahua-dss-itcBulletin-sqli.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4073eca6b43816a8482a2ca0a10aeccf": {
+        "name": "MKdocs 任意文件读取漏洞 CVE-2021-40978.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "ac01528cc2b8c4c6f1b82579d5ec635f": {
+        "name": "SonarQube search_projects 项目信息泄露漏洞.py",
+        "from": "https://github.com/20142995/pocsuite3",
+        "up_time": "2025-01-26 03:16:02"
+    },
+    "4ff64694ebb532a550a163a748051c90": {
+        "name": "__init__.py",
+        "from": "https://github.com/ox01024/PocHub",
+        "up_time": "2025-01-26 03:16:04"
+    },
+    "c1885db0a1506fab23d6cd3ee47caff8": {
+        "name": "CVE-2021-46422.py",
+        "from": "https://github.com/Pontusec/pocsuite3",
+        "up_time": "2025-01-26 03:16:10"
+    },
+    "a0e4360b4665e105ea2589627b7350a4": {
+        "name": "CVE-2022-26134.py",
+        "from": "https://github.com/Pontusec/pocsuite3",
+        "up_time": "2025-01-26 03:16:10"
+    },
+    "024e6942bd65929341e7424763065a52": {
+        "name": "tomcat-ajp-ghostcat_all_lfi.py",
+        "from": "https://github.com/Pontusec/pocsuite3",
+        "up_time": "2025-01-26 03:16:10"
     }
 }
